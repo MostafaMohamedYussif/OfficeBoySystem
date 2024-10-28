@@ -1,0 +1,6 @@
+@OfficeBoySystem.API_HostAddress = http://localhost:5259
+
+GET {{OfficeBoySystem.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
